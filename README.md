@@ -14,3 +14,8 @@
    * Por medio de un innerHTML envía el valor de fruta nueva de vuelta hacia la lista ordenada "listaDeFrutas" concatenado con la etiqueta *li* para que aparezca con el formato adecuado.
 
 3. Por último hice el archivo estilos.css para configurar el aspecto del html de manera más limpia.
+
+
+4. En los settings de gitHub active la opción de Pages pero el enlace que me crea está incompleto, le falta agregar *index.html* al final =(  No supe como arreglar esto, así que coloco el enlace completo aquí.
+
+https://dianix.github.io/leccion12b-frutas/index.html
