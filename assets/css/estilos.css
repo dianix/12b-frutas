@@ -14,7 +14,9 @@ body {
     height: 100%;
     background-color: gainsboro;
      /*intenté poner una imagen de fondo pero no lo logré T_T */
-    background-image: url(assets/imgs/fondoFrutas.jpg);
+    background-size: cover;
+    
+    
     
 }
 
@@ -34,10 +36,10 @@ div {
     margin: 20px;
     padding: 10px;
     height: calc(100% - 140px);
-    background-color: rgba(255, 255, 255, 0.51);
+    background-color: rgba(255, 255, 255, 0.75);
     border-radius: 15px;
     font-family: 'Work Sans', sans-serif;
-    color: #848484;
+    color: #646464;
     align-content: center;
 }
 
