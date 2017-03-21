@@ -1,4 +1,7 @@
-* {
+/* Probando archivo de estilos independiente, me gusta porque se ve más limpio =) */
+
+
+* { /* un truco que me encontré para que no se vea el header separado del borde de la ventana */
     margin: 0;
     padding: 0;
 }
@@ -10,6 +13,7 @@ html {
 body {
     height: 100%;
     background-color: gainsboro;
+     /*intenté poner una imagen de fondo pero no lo logré T_T */
     background-image: url(assets/imgs/fondoFrutas.jpg);
     
 }
@@ -57,6 +61,7 @@ img {
 ol {
     margin-left: 20px;
 }
+
 button {
     margin: 10px;
     background-color: orange;
