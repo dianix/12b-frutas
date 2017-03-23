@@ -13,11 +13,7 @@ html {
 body {
     height: 100%;
     background-color: gainsboro;
-     /*intenté poner una imagen de fondo pero no lo logré T_T */
     background-size: cover;
-    
-    
-    
 }
 
 header {
@@ -28,7 +24,7 @@ header {
     color: aliceblue;
     text-underline-position: below;
     font-size: 20px;
-    padding-top: 20px;
+    padding-top: 30px;
     
 }
 
@@ -40,7 +36,7 @@ div {
     border-radius: 15px;
     font-family: 'Work Sans', sans-serif;
     color: #646464;
-    align-content: center;
+    
 }
 
 section {
@@ -64,12 +60,25 @@ ol {
     margin-left: 20px;
 }
 
+span {
+    position: absolute;
+    height: auto;
+    padding: 5px;
+    margin-left: 26%;
+    align-content: center;
+}
+
+input {
+    
+    width: 220px
+}
+
 button {
-    margin: 10px;
+    margin: 5px;
     background-color: orange;
     font-family: 'Work Sans', sans-serif;
     color: whitesmoke;
-    height: 30px;
+    height: 25px;
     width: 100px;
     border-radius: 7px;  
 }
